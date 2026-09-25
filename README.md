@@ -86,7 +86,3 @@ SOGUTMA_ORANI = 0.9999999      # Geometric cooling rate
 ```bash
 python main.py
 ```
-
----
-### 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
